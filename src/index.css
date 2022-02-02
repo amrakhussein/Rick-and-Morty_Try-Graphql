@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  .appHeading {
+    @apply text-2xl;
+  }
+  .appText {
+    @apply text-lg pl-4 pb-4 font-mono font-bold text-pink-300
+  }
+}
