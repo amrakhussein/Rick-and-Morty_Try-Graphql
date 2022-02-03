@@ -1,5 +1,8 @@
 # Rick-and-Morty_Try-Graphql
-simple project to experiment with graphql
+*preview* 
+ https://amromoorie.github.io/Rick-and-Morty_Try-Graphql/
+
+simple project to experiment with graphql made using the [Rick and Morty Api](https://rickandmortyapi.com/)
 
 **project made with React & Tailwind for smooth development**
 

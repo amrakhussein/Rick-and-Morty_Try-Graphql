@@ -1,5 +1,5 @@
 import { ApolloClient, InMemoryCache, ApolloProvider } from '@apollo/client';
-import { BrowserRouter as Router } from 'react-router-dom';
+import { HashRouter as Router } from 'react-router-dom';
 import Layout from './components/layout/TheLayout';
 import Home from './pages/Home';
 
