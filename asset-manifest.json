@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Rick-and-Morty_Try-Graphql/static/css/main.f27eb20e.css",
-    "main.js": "/Rick-and-Morty_Try-Graphql/static/js/main.319298fe.js",
+    "main.css": "/Rick-and-Morty_Try-Graphql/static/css/main.e8529f94.css",
+    "main.js": "/Rick-and-Morty_Try-Graphql/static/js/main.b7b4adc1.js",
     "static/js/787.745e99b1.chunk.js": "/Rick-and-Morty_Try-Graphql/static/js/787.745e99b1.chunk.js",
     "index.html": "/Rick-and-Morty_Try-Graphql/index.html",
-    "main.f27eb20e.css.map": "/Rick-and-Morty_Try-Graphql/static/css/main.f27eb20e.css.map",
-    "main.319298fe.js.map": "/Rick-and-Morty_Try-Graphql/static/js/main.319298fe.js.map",
+    "main.e8529f94.css.map": "/Rick-and-Morty_Try-Graphql/static/css/main.e8529f94.css.map",
+    "main.b7b4adc1.js.map": "/Rick-and-Morty_Try-Graphql/static/js/main.b7b4adc1.js.map",
     "787.745e99b1.chunk.js.map": "/Rick-and-Morty_Try-Graphql/static/js/787.745e99b1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f27eb20e.css",
-    "static/js/main.319298fe.js"
+    "static/css/main.e8529f94.css",
+    "static/js/main.b7b4adc1.js"
   ]
 }
